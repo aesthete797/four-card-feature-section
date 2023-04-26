@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-single-price-grid-component-with-flex-RBin-GhB9z)
-- Live Site URL: [Vercel](https://single-price-grid-component-aesthete797.vercel.app/)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/responsive-four-card-feature-section-with-flex-fOBjFgSPR7)
+- Live Site URL: [Vercel](https://four-card-feature-section-beryl-ten.vercel.app/)
 
 ### Built with
 
